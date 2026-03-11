@@ -32,7 +32,7 @@ The system automatically reduces brightness late at night and boosts it when mot
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit/circuit_diagram.png)
+https://github.com/Ayancoder1/Smart-Adaptive-Streetlight-System/blob/main/Circuit%20Diagram.png
 
 ### ESP32 Connections
 
@@ -97,7 +97,7 @@ Developed using:
 
 ## Source Code
 
-The complete source code is available in:
+The complete source code is available in: https://github.com/Ayancoder1/Smart-Adaptive-Streetlight-System/blob/main/Smart_streetlight_Project.ino
 
 ---
 
@@ -126,7 +126,7 @@ Possible upgrades include:
 
 ## Documentation
 
-Full project report available here: 
+Full project report available here: https://github.com/Ayancoder1/Smart-Adaptive-Streetlight-System/blob/main/Ayan%20Kar%20OSHW%202026%20Project%20Report.pdf
 
 
 ---
